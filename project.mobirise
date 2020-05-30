@@ -53,9 +53,10 @@
     "favicon": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "",
+    "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"L03xlejSmyuZBEA4kCdFa7la2d1KIeVrrBwI8G6fkSo\" />"
   },
   "pages": {
     "prazodeentrega.html": {
