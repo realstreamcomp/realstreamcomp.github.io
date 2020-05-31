@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "clientes.html",
+    "name": "REAL STREAM COMPANY",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
     "screenshot": "screenshot.png",
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-real-stream-128x128.png",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
@@ -518,7 +518,7 @@
     "clientes.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
-        "title": "realstreamcomp/CLIENTES",
+        "title": "realstreamcomp/",
         "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
@@ -1515,7 +1515,8 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "JKIM",
-        "order": 7
+        "order": 7,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
@@ -1615,7 +1616,8 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "SANTORVI",
-        "order": 8
+        "order": 8,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
@@ -1715,7 +1717,8 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "KRUXEN",
-        "order": 9
+        "order": 9,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
@@ -1815,7 +1818,8 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "VH",
-        "order": 10
+        "order": 10,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
@@ -1915,7 +1919,8 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "YUAN",
-        "order": 11
+        "order": 11,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
@@ -2015,7 +2020,8 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "BAD TEAM",
-        "order": 12
+        "order": 12,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
@@ -2115,7 +2121,8 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "JB JOTTA",
-        "order": 13
+        "order": 13,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
@@ -2215,7 +2222,8 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "DOUGG PÃO",
-        "order": 14
+        "order": 14,
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20real%20stream-720x720.png"
       },
       "components": [
         {
